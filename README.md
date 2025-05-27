@@ -1,4 +1,4 @@
-# Leon_the_handsome
+# Leon_the_Handsome
 Walking on the path of heaven to save every cute girls
 
 Hello! I'm a physics graduate passionate about applying my knowledge to build cool automatic systems, C++, Python, electronics, Physics.
