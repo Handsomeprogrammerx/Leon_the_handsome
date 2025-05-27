@@ -7,7 +7,7 @@ Past projects:
 
 -Obstacle avoiding robot
 
--Smart plant growing system 
+-Smart plants growing system 
 
 -Perovskite solar cell
 
