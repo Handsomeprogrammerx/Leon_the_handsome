@@ -1,7 +1,7 @@
 # Leon the Handsome
 Walking on the path of heaven to save every cute girls
 
-Hello! I'm a physics graduate passionate about applying my knowledge to build cool automatic systems, C++, Python, electronics, Physics.
+Guten morgen! おはよう! 你好! I'm a physics graduate passionate about applying my knowledge to build cool automatic systems, C++, Python, electronics, Physics.
 
 Past projects:
 
